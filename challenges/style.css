@@ -1,0 +1,19 @@
+body {
+   margin: 0 auto;
+   width: 50%;
+   -webkit-font-smoothing: antialiased;
+}
+
+.dude {
+
+   margin: 15% auto;
+   width: 100%;
+}
+
+.notWednesday {
+   font-family: 'Open Sans', sans-serif;
+   position: relative;
+   display: none;
+   margin: 45% auto;
+   text-align: center;
+}
