@@ -10,7 +10,7 @@ function isWednesday() {
    }  else {
       console.log("It's not Wednesday.");
       document.querySelector('.dude').style.display='none';
-      document.getElementById('notWednesday').style.display='block';
+      document.getElementById('notWednesday').style.display='inline';
    }
 }
 isWednesday();
