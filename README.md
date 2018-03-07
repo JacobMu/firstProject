@@ -1,2 +1,2 @@
 # firstProject
-it's Wednesday my dudes
+this is a first project to test JS
